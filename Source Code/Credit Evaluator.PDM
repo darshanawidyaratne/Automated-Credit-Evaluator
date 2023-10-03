@@ -1,0 +1,867 @@
+[Root]
+Most Recent Package=package3
+
+
+[Package|Dep File|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=G:\Documents and Settings\Administrator\Desktop\New Folder\EVL
+
+[Package|Dep File|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File|Files Found]
+
+[Package|Dep File|Files Released]
+
+[Package|Dep File|Missing Dependency Information]
+
+[Package|Dep File|Out-of-Date Dependency Information]
+
+[Package|Dep File|Files Added]
+
+[Package|Dep File|Files Removed]
+
+[Package|Dep File|Files In Project]
+G:\Documents and Settings\Administrator\Desktop\New Folder\EVL\Credit Evaluator.exe=Yes
+G:\WINNT\system32\msvbvm60.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\Program Files\Common Files\System\ado\msado15.dll=Yes
+G:\WINNT\system32\MSBIND.DLL=Yes
+G:\WINNT\system32\MSSTDFMT.DLL=Yes
+G:\WINNT\system32\RICHTX32.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+G:\WINNT\system32\Crystl32.OCX=Yes
+G:\WINNT\system32\crpe32.dll=Yes
+G:\WINNT\system32\MSADODC.OCX=Yes
+
+[Package|Dep File|Configure Registry Files]
+Applicable=
+
+[Package|Dep File|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File|Install Locations]
+G:\Documents and Settings\Administrator\Desktop\New Folder\EVL\Credit Evaluator.exe=$(AppPath)
+G:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+G:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+G:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+G:\WINNT\system32\crpe32.dll=$(WinSysPath)
+G:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+
+[Package|Dep File|Configure Shared Files]
+Applicable=
+
+[Package|Dep File|DepFile]
+DepCabFile=Credit Evaluator.CAB
+DepCabRun=Credit Evaluator.INF
+
+[Package|Dep File|Package]
+PackageFolder=G:\Documents and Settings\Administrator\Desktop\New Folder\EVL
+ProjectFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl
+ServerSideCab=
+File1=G:\Documents and Settings\Administrator\Desktop\New Folder\EVL\Credit Evaluator.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Credit Evaluator|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\setup
+
+[Package|Credit Evaluator|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Credit Evaluator|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Credit Evaluator|Files Found]
+
+[Package|Credit Evaluator|Files Released]
+
+[Package|Credit Evaluator|Missing Dependency Information]
+
+[Package|Credit Evaluator|Out-of-Date Dependency Information]
+
+[Package|Credit Evaluator|Files Added]
+
+[Package|Credit Evaluator|Files Removed]
+
+[Package|Credit Evaluator|Files In Project]
+G:\WINNT\system32\msvbvm60.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\WINNT\system32\MSBIND.DLL=Yes
+G:\WINNT\system32\MSSTDFMT.DLL=Yes
+G:\WINNT\system32\RICHTX32.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+G:\WINNT\system32\Crystl32.OCX=Yes
+G:\WINNT\system32\crpe32.dll=Yes
+G:\WINNT\system32\MSADODC.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+G:\WINNT\system32\VB6STKIT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=Yes
+
+[Package|Credit Evaluator|Configure Registry Files]
+Applicable=No
+
+[Package|Credit Evaluator|Configure Remote Servers]
+Applicable=No
+
+[Package|Credit Evaluator|Install Locations]
+G:\Documents and Settings\Administrator\Desktop\New Folder\EVL\Credit Evaluator.exe=$(AppPath)
+G:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Common Files\System\ado\msado15.dll=$(CommonFilesSys)\ADO
+G:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+G:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+G:\WINNT\system32\crpe32.dll=$(WinSysPath)
+G:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=$(AppPath)
+
+[Package|Credit Evaluator|Configure Shared Files]
+Applicable=Yes
+G:\Documents and Settings\Administrator\Desktop\New Folder\EVL\Credit Evaluator.exe=No
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=No
+
+[Package|Credit Evaluator|DepFile]
+DepCabFile=Credit Evaluator.CAB
+DepCabRun=Credit Evaluator.INF
+
+[Package|Credit Evaluator|Package]
+PackageFolder=G:\Documents and Settings\Administrator\Desktop\New Folder\EVL
+ProjectFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl
+ServerSideCab=
+File1=G:\Documents and Settings\Administrator\Desktop\New Folder\EVL\Credit Evaluator.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Credit Evaluator|Distribution]
+Type=single
+Size=
+Title=Credit Evaluator through Intellegent Modelling
+
+[Package|Credit Evaluator|IconGroups]
+Group0=Credit Evaluator through Intellegent Modelling
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Credit Evaluator|Credit Evaluator through Intellegent Modelling]
+Icon1="Credit Evaluator.exe"
+Title1=Credit Evaluator through Intellegent Modelling
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=Yes
+G:\WINNT\system32\msvbvm60.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\WINNT\system32\MSBIND.DLL=Yes
+G:\WINNT\system32\MSSTDFMT.DLL=Yes
+G:\WINNT\system32\RICHTX32.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+G:\WINNT\system32\Crystl32.OCX=Yes
+G:\WINNT\system32\crpe32.dll=Yes
+G:\WINNT\system32\MSADODC.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+G:\WINNT\system32\VB6STKIT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=$(AppPath)
+G:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+G:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+G:\WINNT\system32\crpe32.dll=$(WinSysPath)
+G:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=No
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Project1
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Project1
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Project1]
+Icon1="Credit Evaluator.exe"
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|aa|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package
+
+[Package|aa|Configure DAO ISAMs]
+Applicable=No
+
+[Package|aa|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|aa|Files Found]
+
+[Package|aa|Files Released]
+
+[Package|aa|Missing Dependency Information]
+
+[Package|aa|Out-of-Date Dependency Information]
+
+[Package|aa|Files Added]
+
+[Package|aa|Files Removed]
+
+[Package|aa|Files In Project]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=Yes
+G:\WINNT\system32\msvbvm60.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\WINNT\system32\MSBIND.DLL=Yes
+G:\WINNT\system32\MSSTDFMT.DLL=Yes
+G:\WINNT\system32\RICHTX32.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+G:\WINNT\system32\Crystl32.OCX=Yes
+G:\WINNT\system32\crpe32.dll=Yes
+G:\WINNT\system32\MSADODC.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+G:\WINNT\system32\VB6STKIT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|aa|Configure Registry Files]
+Applicable=No
+
+[Package|aa|Configure Remote Servers]
+Applicable=No
+
+[Package|aa|Install Locations]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=$(AppPath)
+G:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+G:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+G:\WINNT\system32\crpe32.dll=$(WinSysPath)
+G:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|aa|Configure Shared Files]
+Applicable=Yes
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|aa|Distribution]
+Type=single
+Size=
+Title=Project1
+
+[Package|aa|IconGroups]
+Group0=Project1
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|aa|Project1]
+Icon1="Credit Evaluator.exe"
+Title1=Project1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package (2)
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+exportmodeller.dll=
+crtslv.dll=
+p2BBDE.DLL=
+Crystal=
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 2|Files Added]
+
+[Package|Standard Setup Package 2|Files Removed]
+
+[Package|Standard Setup Package 2|Files In Project]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=Yes
+G:\WINNT\system32\msvbvm60.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\WINNT\system32\MSBIND.DLL=Yes
+G:\WINNT\system32\MSSTDFMT.DLL=Yes
+G:\WINNT\system32\RICHTX32.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+G:\WINNT\system32\Crystl32.OCX=Yes
+G:\WINNT\system32\crpe32.dll=Yes
+G:\WINNT\system32\Implode.dll=Yes
+G:\WINNT\system32\Crpaig80.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+G:\WINNT\system32\mfc42.dll=Yes
+G:\WINNT\Crystal\Crxlat32.dll=Yes
+G:\WINNT\system32\P2bbnd.dll=Yes
+G:\WINNT\system32\p2bdao.dll=Yes
+G:\WINNT\Crystal\p2bxbse.dll=Yes
+G:\WINNT\system32\p2ctdao.dll=Yes
+G:\WINNT\system32\p2irdao.dll=Yes
+G:\WINNT\Crystal\p2sifmx.dll=Yes
+G:\WINNT\system32\P2smon.dll=Yes
+G:\WINNT\system32\p2sodbc.dll=Yes
+G:\WINNT\Crystal\p2sora7.dll=Yes
+G:\WINNT\Crystal\p2ssql.dll=Yes
+G:\WINNT\Crystal\p2ssyb10.dll=Yes
+G:\WINNT\Crystal\p2soledb.dll=Yes
+G:\WINNT\Crystal\u2ddisk.dll=Yes
+G:\WINNT\Crystal\u2dmapi.dll=Yes
+G:\WINNT\Crystal\u2dnotes.dll=Yes
+G:\WINNT\Crystal\u2dpost.dll=Yes
+G:\WINNT\Crystal\u2dvim.dll=Yes
+G:\WINNT\Crystal\u2dapp.dll=Yes
+G:\WINNT\Crystal\u2fcr.dll=Yes
+G:\WINNT\Crystal\u2fhtml.dll=Yes
+G:\WINNT\Crystal\u2fodbc.dll=Yes
+G:\WINNT\Crystal\u2frec.dll=Yes
+G:\WINNT\Crystal\crxf_rtf.dll=Yes
+G:\WINNT\Crystal\u2fsepv.dll=Yes
+G:\WINNT\Crystal\u2ftext.dll=Yes
+G:\WINNT\Crystal\u2fwks.dll=Yes
+G:\WINNT\Crystal\u2fwordw.dll=Yes
+G:\WINNT\Crystal\u2fxls.dll=Yes
+G:\WINNT\Crystal\crxf_pdf.dll=Yes
+G:\WINNT\Crystal\u25dts.dll=Yes
+G:\WINNT\Crystal\u2l2000.dll=Yes
+G:\WINNT\Crystal\u2lcom.dll=Yes
+G:\WINNT\Crystal\u2ldts.dll=Yes
+G:\WINNT\Crystal\u2lsamp1.dll=Yes
+G:\WINNT\Crystal\u252000.dll=Yes
+\program files\seagate software\shared\SSCSDK80.DLL=Yes
+G:\WINNT\system32\MSADODC.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+G:\WINNT\system32\VB6STKIT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=$(AppPath)
+G:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+G:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+G:\WINNT\system32\crpe32.dll=$(WinSysPath)
+G:\WINNT\system32\Implode.dll=$(AppPath)
+G:\WINNT\system32\Crpaig80.dll=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+G:\WINNT\system32\mfc42.dll=$(WinSysPath)
+G:\WINNT\Crystal\Crxlat32.dll=$(WinSysPath)
+G:\WINNT\system32\P2bbnd.dll=$(WinSysPath)
+G:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+G:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+G:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+G:\WINNT\system32\P2smon.dll=$(WinSysPath)
+G:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fhtml.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+G:\WINNT\Crystal\crxf_rtf.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+G:\WINNT\Crystal\crxf_pdf.dll=$(WinSysPath)
+G:\WINNT\Crystal\u25dts.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2ldts.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2lsamp1.dll=$(WinSysPath)
+G:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\shared\SSCSDK80.DLL=$(WinSysPath)
+G:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=No
+G:\WINNT\system32\Implode.dll=No
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=
+Title=Credit Evaluator through Intellegent Modelling Version 1.02
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=Credit Evaluator through Intellegent Modelling Version 1.02
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|Credit Evaluator through Intellegent Modelling Version 1.02]
+Icon1="Credit Evaluator.exe"
+Title1=Credit Evaluator through Intellegent Modelling Version 1.02
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package (2)
+ProjectFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl
+ServerSideCab=
+File1=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package (2)\setup.exe
+File2=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package (2)\Setup.Lst
+File3=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Package (2)\Credit Evaluator.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Setup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Documents and Settings\Administrator\Desktop\credit Evl
+
+[Package|Setup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Setup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Setup|Files Found]
+
+[Package|Setup|Files Released]
+u2LBAR.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+exportmodeller.dll=
+crtslv.dll=
+p2BBDE.DLL=
+Crystal=
+
+[Package|Setup|Missing Dependency Information]
+
+[Package|Setup|Out-of-Date Dependency Information]
+
+[Package|Setup|Files Added]
+
+[Package|Setup|Files Removed]
+
+[Package|Setup|Files In Project]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=Yes
+G:\WINNT\system32\msvbvm60.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+G:\WINNT\system32\MSBIND.DLL=Yes
+G:\WINNT\system32\MSSTDFMT.DLL=Yes
+G:\WINNT\system32\RICHTX32.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+G:\WINNT\system32\Crystl32.OCX=Yes
+G:\WINNT\system32\crpe32.dll=Yes
+G:\WINNT\system32\Implode.dll=Yes
+G:\WINNT\system32\Crpaig80.dll=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+G:\WINNT\system32\mfc42.dll=Yes
+G:\WINNT\Crystal\Crxlat32.dll=Yes
+G:\WINNT\system32\P2bbnd.dll=Yes
+G:\WINNT\system32\p2bdao.dll=Yes
+G:\WINNT\Crystal\p2bxbse.dll=Yes
+G:\WINNT\system32\p2ctdao.dll=Yes
+G:\WINNT\system32\p2irdao.dll=Yes
+G:\WINNT\Crystal\p2sifmx.dll=Yes
+G:\WINNT\system32\P2smon.dll=Yes
+G:\WINNT\system32\p2sodbc.dll=Yes
+G:\WINNT\Crystal\p2sora7.dll=Yes
+G:\WINNT\Crystal\p2ssql.dll=Yes
+G:\WINNT\Crystal\p2ssyb10.dll=Yes
+G:\WINNT\Crystal\p2soledb.dll=Yes
+G:\WINNT\Crystal\u2ddisk.dll=Yes
+G:\WINNT\Crystal\u2dmapi.dll=Yes
+G:\WINNT\Crystal\u2dnotes.dll=Yes
+G:\WINNT\Crystal\u2dpost.dll=Yes
+G:\WINNT\Crystal\u2dvim.dll=Yes
+G:\WINNT\Crystal\u2dapp.dll=Yes
+G:\WINNT\Crystal\u2fcr.dll=Yes
+G:\WINNT\Crystal\u2fhtml.dll=Yes
+G:\WINNT\Crystal\u2fodbc.dll=Yes
+G:\WINNT\Crystal\u2frec.dll=Yes
+G:\WINNT\Crystal\crxf_rtf.dll=Yes
+G:\WINNT\Crystal\u2fsepv.dll=Yes
+G:\WINNT\Crystal\u2ftext.dll=Yes
+G:\WINNT\Crystal\u2fwks.dll=Yes
+G:\WINNT\Crystal\u2fwordw.dll=Yes
+G:\WINNT\Crystal\u2fxls.dll=Yes
+G:\WINNT\Crystal\crxf_pdf.dll=Yes
+G:\WINNT\Crystal\u25dts.dll=Yes
+G:\WINNT\Crystal\u2l2000.dll=Yes
+G:\WINNT\Crystal\u2lcom.dll=Yes
+G:\WINNT\Crystal\u2ldts.dll=Yes
+G:\WINNT\Crystal\u2lsamp1.dll=Yes
+G:\WINNT\Crystal\u252000.dll=Yes
+\program files\seagate software\shared\SSCSDK80.DLL=Yes
+G:\WINNT\system32\MSADODC.OCX=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+G:\WINNT\system32\VB6STKIT.DLL=Yes
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Setup|Configure Registry Files]
+Applicable=No
+
+[Package|Setup|Configure Remote Servers]
+Applicable=No
+
+[Package|Setup|Install Locations]
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=$(AppPath)
+G:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+G:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+G:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+G:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+G:\WINNT\system32\crpe32.dll=$(WinSysPath)
+G:\WINNT\system32\Implode.dll=$(AppPath)
+G:\WINNT\system32\Crpaig80.dll=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+G:\WINNT\system32\mfc42.dll=$(WinSysPath)
+G:\WINNT\Crystal\Crxlat32.dll=$(WinSysPath)
+G:\WINNT\system32\P2bbnd.dll=$(WinSysPath)
+G:\WINNT\system32\p2bdao.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2bxbse.dll=$(WinSysPath)
+G:\WINNT\system32\p2ctdao.dll=$(WinSysPath)
+G:\WINNT\system32\p2irdao.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2sifmx.dll=$(WinSysPath)
+G:\WINNT\system32\P2smon.dll=$(WinSysPath)
+G:\WINNT\system32\p2sodbc.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2sora7.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2ssql.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2ssyb10.dll=$(WinSysPath)
+G:\WINNT\Crystal\p2soledb.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2ddisk.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dmapi.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dnotes.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dpost.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dvim.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2dapp.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fcr.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fhtml.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fodbc.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2frec.dll=$(WinSysPath)
+G:\WINNT\Crystal\crxf_rtf.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fsepv.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2ftext.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fwks.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fwordw.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2fxls.dll=$(WinSysPath)
+G:\WINNT\Crystal\crxf_pdf.dll=$(WinSysPath)
+G:\WINNT\Crystal\u25dts.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2l2000.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2lcom.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2ldts.dll=$(WinSysPath)
+G:\WINNT\Crystal\u2lsamp1.dll=$(WinSysPath)
+G:\WINNT\Crystal\u252000.dll=$(WinSysPath)
+\program files\seagate software\shared\SSCSDK80.DLL=$(WinSysPath)
+G:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Setup|Configure Shared Files]
+Applicable=Yes
+G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl\Credit Evaluator.exe=No
+G:\WINNT\system32\Implode.dll=No
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Setup|Distribution]
+Type=single
+Size=
+Title=Credit Evaluator  1.02 
+
+[Package|Setup|IconGroups]
+Group0=Credit Evaluator  1.02 
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Setup|Credit Evaluator  1.02 ]
+Icon1="Credit Evaluator.exe"
+Title1=Credit Evaluator  1.02 
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Setup|Package]
+PackageFolder=G:\Documents and Settings\Administrator\Desktop\credit Evl
+ProjectFolder=G:\Documents and Settings\Administrator\Desktop\bit project\credit Evl
+ServerSideCab=
+File1=G:\Documents and Settings\Administrator\Desktop\credit Evl\setup.exe
+File2=G:\Documents and Settings\Administrator\Desktop\credit Evl\Setup.Lst
+File3=G:\Documents and Settings\Administrator\Desktop\credit Evl\Credit Evaluator.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|package3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Package
+
+[Package|package3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|package3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|package3|Files Found]
+
+[Package|package3|Files Released]
+
+[Package|package3|Missing Dependency Information]
+
+[Package|package3|Out-of-Date Dependency Information]
+
+[Package|package3|Files Added]
+
+[Package|package3|Files Removed]
+
+[Package|package3|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINNT\system32\Crystl32.OCX=Yes
+C:\WINNT\system32\crpe32.dll=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Administrator\Desktop\credit Evaluator\Source Code\Automated Credit Evaluator.exe=Yes
+
+[Package|package3|Configure Registry Files]
+Applicable=No
+
+[Package|package3|Configure Remote Servers]
+Applicable=No
+
+[Package|package3|Install Locations]
+C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Automated Credit Evaluator.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINNT\system32\crpe32.dll=$(AppPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Administrator\Desktop\credit Evaluator\Source Code\Automated Credit Evaluator.exe=$(AppPath)
+
+[Package|package3|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Automated Credit Evaluator.exe=No
+C:\WINNT\system32\crpe32.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\Administrator\Desktop\credit Evaluator\Source Code\Automated Credit Evaluator.exe=No
+
+[Package|package3|Distribution]
+Type=single
+Size=
+Title=Automated Credit Evaluator 1.02
+
+[Package|package3|IconGroups]
+Group0=Automated Credit Evaluator
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|package3|Automated Credit Evaluator]
+Icon1="Automated Credit Evaluator.exe"
+Title1=Automated Credit Evaluator
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|package3|Package]
+PackageFolder=C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Package
+ProjectFolder=C:\Documents and Settings\Administrator\Desktop\credit Evaluator\Source Code
+ServerSideCab=
+File1=C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Package\setup.exe
+File2=C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Package\Setup.Lst
+File3=C:\Documents and Settings\Administrator\Desktop\credit Evaluator\bit\Package\Automated Credit Evaluator.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
